@@ -1,0 +1,11 @@
+* {
+      
+  text-align: left;
+}
+
+p:active{ 
+  
+    text-decoration: underline;
+    color: purple;
+  
+}
